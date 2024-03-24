@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\Kuliah\\Semester 4\\KPL\\Praktikum\\TPMOD06\\TPMOD06_1302220065\\TPMOD06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16398E8F-BCC8-4C5D-9B02-7644AE894E5C}|TPMOD06\\TPMOD06.csproj|c:\\users\\user\\documents\\kuliah\\semester 4\\kpl\\praktikum\\tpmod06\\tpmod06_1302220065\\tpmod06\\tpmod06\\sayatubevideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16398E8F-BCC8-4C5D-9B02-7644AE894E5C}|TPMOD06\\TPMOD06.csproj|solutionrelative:tpmod06\\sayatubevideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16398E8F-BCC8-4C5D-9B02-7644AE894E5C}|TPMOD06\\TPMOD06.csproj|c:\\users\\user\\documents\\kuliah\\semester 4\\kpl\\praktikum\\tpmod06\\tpmod06_1302220065\\tpmod06\\tpmod06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16398E8F-BCC8-4C5D-9B02-7644AE894E5C}|TPMOD06\\TPMOD06.csproj|solutionrelative:tpmod06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SayaTubeVideo.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Kuliah\\Semester 4\\KPL\\Praktikum\\TPMOD06\\TPMOD06_1302220065\\TPMOD06\\TPMOD06\\SayaTubeVideo.cs",
+              "RelativeDocumentMoniker": "TPMOD06\\SayaTubeVideo.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Kuliah\\Semester 4\\KPL\\Praktikum\\TPMOD06\\TPMOD06_1302220065\\TPMOD06\\TPMOD06\\SayaTubeVideo.cs",
+              "RelativeToolTip": "TPMOD06\\SayaTubeVideo.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:51:54.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Kuliah\\Semester 4\\KPL\\Praktikum\\TPMOD06\\TPMOD06_1302220065\\TPMOD06\\TPMOD06\\Program.cs",
+              "RelativeDocumentMoniker": "TPMOD06\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Kuliah\\Semester 4\\KPL\\Praktikum\\TPMOD06\\TPMOD06_1302220065\\TPMOD06\\TPMOD06\\Program.cs",
+              "RelativeToolTip": "TPMOD06\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:48:09.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
